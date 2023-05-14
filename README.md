@@ -1,1 +1,1 @@
-# bias_in_logistic_regression
+#### Notebooks and codes for logistic regression biases with rare events data.
